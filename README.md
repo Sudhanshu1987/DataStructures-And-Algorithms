@@ -14,7 +14,7 @@
         
     * Traversal Problems
         1. BFS-
-            * https://leetcode.com/problems/redundant-connection
+            * https://leetcode.com/problems/evaluate-division
             
         2. DFS-
             * https://leetcode.com/problems/redundant-connection
