@@ -3,15 +3,21 @@
 
 ## Graphs
 ### Topics
-1.Graph Problems
-    1.Shortest Path Problems [link](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
+1. Graph Problems
+    * Shortest Path Problems [link](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
+        
         The shortest path problem is about finding a path between  vertices in a graph such that the total sum of the edges weights is minimum.
         This problem could be solved easily using (BFS) if all edge weights were (), but here weights can take any value. Different algorithms are mentioned below depending on the         use-case.        
         1. Bellman Ford's Algorithm
         2. Dijkstra's Algorithm
         3. Floyd Warshall Alogorithm
-    2. Traversal Problems
-        1. BFS
-        2. DFS
+        
+    * Traversal Problems
+        1. BFS-
+            * https://leetcode.com/problems/redundant-connection
+            
+        2. DFS-
+            * https://leetcode.com/problems/redundant-connection
+             
         3. Bidirectional BFS
-    3. Topological Sort
+    * Topological Sort
