@@ -8,10 +8,10 @@
         The shortest path problem is about finding a path between  vertices in a graph such that the total sum of the edges weights is minimum.
         This problem could be solved easily using (BFS) if all edge weights were (), but here weights can take any value. Different algorithms are mentioned below depending on the         use-case.        
         1. Bellman Ford's Algorithm
-        1. Dijkstra's Algorithm
-        1. Floyd Warshall Alogorithm
-    1. Traversal Problems
+        2. Dijkstra's Algorithm
+        3. Floyd Warshall Alogorithm
+    2. Traversal Problems
         1. BFS
-        1. DFS
-        1. Bidirectional BFS
-    1. Topological Sort
+        2. DFS
+        3. Bidirectional BFS
+    3. Topological Sort
