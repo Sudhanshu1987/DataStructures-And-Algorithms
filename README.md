@@ -3,6 +3,7 @@
 
 ## Graphs
 ### Topics
+    Graph Problems
     |
     +-- Shortest Path Problems
     |   |
