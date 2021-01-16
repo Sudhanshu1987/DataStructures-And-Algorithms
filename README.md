@@ -5,3 +5,19 @@
 ### Topics
     |
     +-- Shortest Path Problems
+    |   |
+    |   Bellman Ford's Algorithm
+    |   |
+    |   Dijkstra's Algorithm
+    |   |
+    |   Floyd Warshall Alogorithm
+    |
+    +-- Traversal Problems
+    |   |
+    |   BFS
+    |   |
+    |   DFS
+    |   |
+    |   Bidirectional BFS
+    |
+    +-- Topological Sort
